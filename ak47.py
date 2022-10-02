@@ -102,8 +102,8 @@ logo =                                          ("""
 \033[1;35m       | $$  | $$| $$/   \  $$
 \033[1;32m       |__/  |__/|__/     \__/
 \033[1;37m================= \33[32;45mAWAIS\33[0;m =====================
-     Source By : AKING
-\033[1;32m     \033[1;33mCOPY PASTE BY\33[0;m   :  \033[1;33mMEMER\33[0;m\033[1;32m && \033[1;33mKASHIF\33[0;m
+     Source By : WAQAS0
+\033[1;32m     \033[1;33mCOPY PASTE BY\33[0;m   :  \033[1;33mMEMER\33[0;m\033[1;32m && \033[1;33mAW4IS\33[0;m
 \033[1;32m     \033[1;32mFACEBOK      : \033[1;34m AWAIS QARNI
 \033[1;32m     \033[1;35mGITHUB       :  \033[1;35mFUCK-TEAM-KRS
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
